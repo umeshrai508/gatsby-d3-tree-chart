@@ -1,1 +1,1 @@
-<a href="//www.goedev.pro">Follow me</a>
+<a href="//www.geodev.pro">Follow me</a>
